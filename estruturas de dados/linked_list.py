@@ -8,7 +8,7 @@ Autor:    Marcos Antonio Tavares Galvão
 Email:    matg@cin.ufpe.br
 Data:        2018-09-12
 
-Descricao:  Lista duplamente encadeada.
+Descricao:  Lista encadeada.
 
 
 Licenca: The MIT License (MIT)
