@@ -1,3 +1,3 @@
 # algorithms-if969
 
-repositório dos códigos produzidos na disciplina if969 - algoritmos e estruturas de dados.
+repositório das implementações produzidas na disciplina if969 - algoritmos e estruturas de dados.
